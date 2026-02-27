@@ -37,3 +37,4 @@ whatsapp_session/
 # OS
 .DS_Store
 Thumbs.db
+"credentials.json"  
