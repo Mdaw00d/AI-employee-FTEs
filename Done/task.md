@@ -1,0 +1,1 @@
+Generate a linkedln post about AI Era
