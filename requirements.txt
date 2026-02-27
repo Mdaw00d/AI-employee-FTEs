@@ -1,0 +1,21 @@
+# Google APIs (Gmail, Calendar, etc.)
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+
+# Retry and validation
+tenacity
+pydantic
+
+# Browser automation (LinkedIn watcher)
+playwright
+
+# File system watching
+watchdog
+
+# YAML parsing
+pyyaml
+
+# Additional utilities
+python-dateutil
