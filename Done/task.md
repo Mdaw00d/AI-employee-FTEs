@@ -1,1 +1,1 @@
-Generate a linkedln post about AI Era
+Generate a post for linkedln about AI

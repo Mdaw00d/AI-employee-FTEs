@@ -27,6 +27,13 @@ processed_ids.pkl
 # Session data
 linkedin_session/
 whatsapp_session/
+x_session/
+facebook_session/
+instagram_session/
+test_chrome_dir/
+
+# Environment variables (may contain secrets)
+.env
 
 # IDE
 .vscode/
